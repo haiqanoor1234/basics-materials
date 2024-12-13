@@ -1,1 +1,1 @@
-# basics-materials
+This directory contains materials for Basics repository-exercises
